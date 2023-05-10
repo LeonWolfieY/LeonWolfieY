@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @LeonWolfieY
+- 🌱 I’m currently learning about programming
